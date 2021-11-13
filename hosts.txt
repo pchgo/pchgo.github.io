@@ -1,0 +1,12 @@
+127.0.0.1 upgrade.ptbftv.gitv.tv
+127.0.0.1 upgrade.bftv.com
+127.0.0.1 ptbftv.gitv.tv
+127.0.0.1 gitv.tv
+127.0.0.1 nas1.phicomm.com
+127.0.0.1 phicloudsym.phicomm.com
+127.0.0.1 api.adguard.com
+127.0.0.1 im.dingtalk.com
+127.0.0.1 xmind.com
+127.0.0.1 prime.dianshihome.com
+192.168.1.1 1
+10.0.0.29 29
