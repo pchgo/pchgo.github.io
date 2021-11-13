@@ -8,5 +8,5 @@
 127.0.0.1 im.dingtalk.com
 127.0.0.1 xmind.com
 127.0.0.1 prime.dianshihome.com
-192.168.1.1 1
-10.0.0.29 29
+192.168.1.1 1.gd
+10.0.0.29 29.gd
